@@ -1,0 +1,4 @@
+repository "ggjtesting2024@riolinabc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
